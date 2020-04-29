@@ -1,0 +1,12 @@
+xyz atoms.xyz
+pn 201 21
+ps 220.0
+corner -100 -100
+s2d 130.0
+nid 0 0 -1
+dx 1 0 0
+beam x
+poly spectrum.txt
+polarization_angle 0
+id 0 0 -1
+output_fn /gpfs/exfel/data/user/juncheng/WP5-team3/out.txt
