@@ -1,12 +1,13 @@
-xyz atoms.xyz
-pn 201 21
-ps 220.0
+xyz /gpfs/exfel/data/user/juncheng/workshop2020/demo/team3/single-cu.xyz
+pn 201 201
+ps 2200.0
 corner -100 -100
-s2d 130.0
+s2d 250.0
 nid 0 0 -1
 dx 1 0 0
 beam x
-poly spectrum.txt
+mono e 18.86
+fluence 127323.95447351629
 polarization_angle 0
 id 0 0 -1
-output_fn /gpfs/exfel/data/user/juncheng/WP5-team3/out.txt
+output_fn /gpfs/exfel/data/user/juncheng/workshop2020/demo/team3/diffr.txt
