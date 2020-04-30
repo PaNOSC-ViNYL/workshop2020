@@ -6,8 +6,7 @@ s2d 250.0
 nid 0 0 -1
 dx 1 0 0
 beam x
-mono e 18.86
-fluence 127323.95447351629
+poly spectrum.txt
 polarization_angle 0
 id 0 0 -1
-output_fn /gpfs/exfel/data/user/juncheng/workshop2020/demo/team3/diffr.txt
+output_fn /gpfs/exfel/data/user/juncheng/workshop2020/demo/team3/diffr_poly_1.txt
